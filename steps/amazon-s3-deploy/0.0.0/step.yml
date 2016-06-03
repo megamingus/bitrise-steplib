@@ -12,7 +12,7 @@ support_url: https://github.com/megamingus/steps-amazon-s3-deploy/issues
 published_at: 2016-03-09T16:38:47.576889058+01:00
 source:
   git: https://github.com/megamingus/steps-amazon-s3-deploy.git
-  commit: 0d032ef56fa5a6d447f41b7fbeab796b238254a4
+  commit: b6a3d606e5475f8ed78105d7ce57f907961a934a
 host_os_tags:
 - osx-10.9
 - osx-10.10
